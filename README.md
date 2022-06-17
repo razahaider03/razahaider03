@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @razahaider03
-- 👀 I’m interested in Computer Networking
-- 🌱 I’m currently learning CCNA
-- 💞️ I’m looking to collaborate on CCNA community
+- 👀 I’m interested in Computer Programming
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java community
 - 📫 How to reach me razahaider03@gmail.com
 
 <!---
